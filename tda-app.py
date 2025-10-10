@@ -416,7 +416,7 @@ def plot_pers_bars(ax, plot_type, x, y):
     plt.sca(ax)
     plt.yticks([])
     plt.xlabel('Radius')
-    plt.ylabel('Features')
+    plt.ylabel('Topological Features')
     plt.title(plot_type)
 
 

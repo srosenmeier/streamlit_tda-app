@@ -1,0 +1,5 @@
+gudhi==3.11.0
+matplotlib==3.10.7
+numpy==2.3.3
+pandas==2.3.3
+streamlit==1.49.1

@@ -12,7 +12,7 @@ This Streamlit app helps you **visualize how persistent homology works** and dem
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/srosenmeier/.git
+   git clone https://github.com/srosenmeier/streamlit_tda-app.git
 
 2. Create and activate a virtual environment:
    ```bash

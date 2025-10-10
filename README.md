@@ -26,7 +26,7 @@ This Streamlit app helps you **visualize how persistent homology works** and dem
 
 ## Alternative to Installation
 
-You can also visit [Simple TDA app](https://tda-app.streamlit.app) to open this streamlit app.
+You can also visit [Simple TDA app](https://tda-app.streamlit.app) to open and use this streamlit app.
 
 ## License
 

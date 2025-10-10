@@ -24,6 +24,10 @@ This Streamlit app helps you **visualize how persistent homology works** and dem
    ```bash
    pip install -r requirements.txt
 
+## Alternative to Installation
+
+You can also visit [Simple TDA app](https://tda-app.streamlit.app) to open this streamlit app.
+
 ## License
 
 MIT License — see the [LICENSE](LICENSE) file for details.

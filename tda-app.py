@@ -530,7 +530,7 @@ with main_window:
 
     with col_interpretation:
         st.markdown(t['interpretation'])
-        radius = st.slider("Radius", 0, 25, st.session_state.rad, 1, key="rad")
+        radius = st.slider(label="Radius", min_value=0, max_value=25, value=st.session_state.rad, step=1, key="rad")
         show_alpha = st.checkbox(t['alpha'], value=st.session_state.alpha, key="alpha")
 
 

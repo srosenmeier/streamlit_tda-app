@@ -589,8 +589,8 @@ with main_window:
 
     with impressum_container:
         st.markdown("<hr style='border: 2px solid black;'>", unsafe_allow_html=True)
-        st.markdown(t['source']+"[DataSaurus Dozen](https://www.research.autodesk.com/publications/same-stats-different-graphs/)")
-        st.markdown(t['author']+'[streamlit](https://streamlit.io), 2025.')
+        st.markdown(t['source']+"[DataSaurus Dozen](https://www.research.autodesk.com/publications/same-stats-different-graphs/)"+", [Paper](https://www.research.autodesk.com/app/uploads/2023/03/same-stats-different-graphs.pdf_rec2hRjLLGgM7Cn2T.pdf)")
+        st.markdown(t['author']+"[streamlit](https://streamlit.io), 2025.")
 
 
 

@@ -1,6 +1,6 @@
 # Simple TDA app
 
-This Streamlit app helps you **visualize how persistent homology works** and demonstrates how **Topological Data Analysis (TDA)** can provide insights beyond traditional statistics for the 13 different point clouds of the [DataSaurus Dozen](https://www.research.autodesk.com/publications/same-stats-different-graphs/) dataset.
+This Streamlit app helps you **visualize how persistent homology works** and demonstrates how **Topological Data Analysis (TDA)** can provide insights beyond traditional statistics for the 13 different point clouds of the [DataSaurus Dozen](https://www.research.autodesk.com/publications/same-stats-different-graphs/) dataset. See also [this paper](https://www.research.autodesk.com/app/uploads/2023/03/same-stats-different-graphs.pdf_rec2hRjLLGgM7Cn2T.pdf) for more information about DataSaurus Dozen.
 
 ## Features
 

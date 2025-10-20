@@ -566,6 +566,7 @@ with main_window:
                     fig, ax = plt.subplots(nrows=1, ncols=3, figsize=(16, 4))
                     ax[0].set_ylim(bottom=-10, top=110)
                     ax[0].set_xlim(left=-10, right=110)
+                    ax[0].axis('equal')
                     x, y = plot_function(ax[0], selected_plots[i])
                     x = list(x)
                     y = list(y)
